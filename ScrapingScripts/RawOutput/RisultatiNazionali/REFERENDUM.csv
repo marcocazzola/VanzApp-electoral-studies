@@ -1,0 +1,274 @@
+TIPO_ELEZIONI,QUESITO,ANNO,PREFERENZA,ABS_RANK,TIPO_METRICA,VOTI,LBL_TIPO_METRICA,FLG_NOT_VALID
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,ELETTORI,1,VOTI_OTTENUTI,28005449.0,Voti ottenuti,1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,VOTANTI,2,VOTI_OTTENUTI,24946878.0,Voti ottenuti,1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,VOTANTI,2,PERC_ASS,89.08,Percentuale (su aventi diritto),1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,REPUBBLICA,3,VOTI_OTTENUTI,12718641.0,Voti ottenuti,0
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,REPUBBLICA,3,PERC_ASS,45.41,Percentuale (su aventi diritto),0
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,REPUBBLICA,3,PERC_VAL,54.27,Percentuale (su voti validi),0
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,MONARCHIA,4,PERC_ASS,38.27,Percentuale (su aventi diritto),0
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,MONARCHIA,4,PERC_VAL,45.73,Percentuale (su voti validi),0
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,MONARCHIA,4,VOTI_OTTENUTI,10718502.0,Voti ottenuti,0
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,ASTENUTI,5,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,ASTENUTI,5,VOTI_OTTENUTI,3058571.0,Voti ottenuti,1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,ASTENUTI,5,PERC_ASS,10.92,Percentuale (su aventi diritto),1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,BIANCHE,6,VOTI_OTTENUTI,1146729.0,Voti ottenuti,1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,BIANCHE,6,PERC_ASS,4.09,Percentuale (su aventi diritto),1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,NULLE,7,VOTI_OTTENUTI,363006.0,Voti ottenuti,1
+REFERENDUM,1. REFERENDUM SULLA FORMA ISTITUZIONALE DELLO STATO,1946,NULLE,7,PERC_ASS,1.3,Percentuale (su aventi diritto),1
+REFERENDUM,1. Divorzio,1974,ELETTORI,1,VOTI_OTTENUTI,37646322.0,Voti ottenuti,1
+REFERENDUM,1. Divorzio,1974,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,1. Divorzio,1974,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Divorzio,1974,VOTANTI,2,VOTI_OTTENUTI,33023179.0,Voti ottenuti,1
+REFERENDUM,1. Divorzio,1974,VOTANTI,2,PERC_ASS,87.72,Percentuale (su aventi diritto),1
+REFERENDUM,1. Divorzio,1974,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Divorzio,1974,NO,3,VOTI_OTTENUTI,19138300.0,Voti ottenuti,0
+REFERENDUM,1. Divorzio,1974,NO,3,PERC_ASS,50.84,Percentuale (su aventi diritto),0
+REFERENDUM,1. Divorzio,1974,NO,3,PERC_VAL,59.26,Percentuale (su voti validi),0
+REFERENDUM,1. Divorzio,1974,SI,4,PERC_ASS,34.95,Percentuale (su aventi diritto),0
+REFERENDUM,1. Divorzio,1974,SI,4,PERC_VAL,40.74,Percentuale (su voti validi),0
+REFERENDUM,1. Divorzio,1974,SI,4,VOTI_OTTENUTI,13157558.0,Voti ottenuti,0
+REFERENDUM,1. Divorzio,1974,ASTENUTI,5,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Divorzio,1974,ASTENUTI,5,VOTI_OTTENUTI,4623143.0,Voti ottenuti,1
+REFERENDUM,1. Divorzio,1974,ASTENUTI,5,PERC_ASS,12.28,Percentuale (su aventi diritto),1
+REFERENDUM,1. Divorzio,1974,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Divorzio,1974,BIANCHE,6,VOTI_OTTENUTI,425694.0,Voti ottenuti,1
+REFERENDUM,1. Divorzio,1974,BIANCHE,6,PERC_ASS,1.13,Percentuale (su aventi diritto),1
+REFERENDUM,1. Divorzio,1974,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Divorzio,1974,NULLE,7,VOTI_OTTENUTI,301627.0,Voti ottenuti,1
+REFERENDUM,1. Divorzio,1974,NULLE,7,PERC_ASS,0.8,Percentuale (su aventi diritto),1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,ELETTORI,1,VOTI_OTTENUTI,41248657.0,Voti ottenuti,1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,VOTANTI,2,VOTI_OTTENUTI,33488690.0,Voti ottenuti,1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,VOTANTI,2,PERC_ASS,81.19,Percentuale (su aventi diritto),1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,NO,3,VOTI_OTTENUTI,17718478.0,Voti ottenuti,0
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,NO,3,PERC_ASS,42.96,Percentuale (su aventi diritto),0
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,NO,3,PERC_VAL,56.41,Percentuale (su voti validi),0
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,SI,4,PERC_ASS,33.19,Percentuale (su aventi diritto),0
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,SI,4,PERC_VAL,43.59,Percentuale (su voti validi),0
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,SI,4,VOTI_OTTENUTI,13691900.0,Voti ottenuti,0
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,ASTENUTI,5,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,ASTENUTI,5,VOTI_OTTENUTI,7759967.0,Voti ottenuti,1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,ASTENUTI,5,PERC_ASS,18.81,Percentuale (su aventi diritto),1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,BIANCHE,6,VOTI_OTTENUTI,1091213.0,Voti ottenuti,1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,BIANCHE,6,PERC_ASS,2.65,Percentuale (su aventi diritto),1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,NULLE,7,VOTI_OTTENUTI,987099.0,Voti ottenuti,1
+REFERENDUM,2. Finanziamento pubblico dei partiti,1978,NULLE,7,PERC_ASS,2.39,Percentuale (su aventi diritto),1
+REFERENDUM,2. Ergastolo,1981,ELETTORI,1,VOTI_OTTENUTI,43154682.0,Voti ottenuti,1
+REFERENDUM,2. Ergastolo,1981,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,2. Ergastolo,1981,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,2. Ergastolo,1981,VOTANTI,2,VOTI_OTTENUTI,34277194.0,Voti ottenuti,1
+REFERENDUM,2. Ergastolo,1981,VOTANTI,2,PERC_ASS,79.43,Percentuale (su aventi diritto),1
+REFERENDUM,2. Ergastolo,1981,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,2. Ergastolo,1981,NO,3,VOTI_OTTENUTI,24330954.0,Voti ottenuti,0
+REFERENDUM,2. Ergastolo,1981,NO,3,PERC_ASS,56.38,Percentuale (su aventi diritto),0
+REFERENDUM,2. Ergastolo,1981,NO,3,PERC_VAL,77.37,Percentuale (su voti validi),0
+REFERENDUM,2. Ergastolo,1981,ASTENUTI,4,PERC_ASS,20.57,Percentuale (su aventi diritto),1
+REFERENDUM,2. Ergastolo,1981,ASTENUTI,4,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,2. Ergastolo,1981,ASTENUTI,4,VOTI_OTTENUTI,8877488.0,Voti ottenuti,1
+REFERENDUM,2. Ergastolo,1981,SI,5,PERC_VAL,22.63,Percentuale (su voti validi),0
+REFERENDUM,2. Ergastolo,1981,SI,5,VOTI_OTTENUTI,7114719.0,Voti ottenuti,0
+REFERENDUM,2. Ergastolo,1981,SI,5,PERC_ASS,16.49,Percentuale (su aventi diritto),0
+REFERENDUM,2. Ergastolo,1981,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,2. Ergastolo,1981,BIANCHE,6,VOTI_OTTENUTI,1978371.0,Voti ottenuti,1
+REFERENDUM,2. Ergastolo,1981,BIANCHE,6,PERC_ASS,4.58,Percentuale (su aventi diritto),1
+REFERENDUM,2. Ergastolo,1981,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,2. Ergastolo,1981,NULLE,7,VOTI_OTTENUTI,853150.0,Voti ottenuti,1
+REFERENDUM,2. Ergastolo,1981,NULLE,7,PERC_ASS,1.98,Percentuale (su aventi diritto),1
+REFERENDUM,3. Porto d'armi,1981,ELETTORI,1,VOTI_OTTENUTI,43154682.0,Voti ottenuti,1
+REFERENDUM,3. Porto d'armi,1981,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,3. Porto d'armi,1981,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Porto d'armi,1981,VOTANTI,2,VOTI_OTTENUTI,34275376.0,Voti ottenuti,1
+REFERENDUM,3. Porto d'armi,1981,VOTANTI,2,PERC_ASS,79.42,Percentuale (su aventi diritto),1
+REFERENDUM,3. Porto d'armi,1981,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Porto d'armi,1981,NO,3,VOTI_OTTENUTI,26995173.0,Voti ottenuti,0
+REFERENDUM,3. Porto d'armi,1981,NO,3,PERC_ASS,62.55,Percentuale (su aventi diritto),0
+REFERENDUM,3. Porto d'armi,1981,NO,3,PERC_VAL,85.92,Percentuale (su voti validi),0
+REFERENDUM,3. Porto d'armi,1981,ASTENUTI,4,PERC_ASS,20.58,Percentuale (su aventi diritto),1
+REFERENDUM,3. Porto d'armi,1981,ASTENUTI,4,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Porto d'armi,1981,ASTENUTI,4,VOTI_OTTENUTI,8879306.0,Voti ottenuti,1
+REFERENDUM,3. Porto d'armi,1981,SI,5,PERC_VAL,14.08,Percentuale (su voti validi),0
+REFERENDUM,3. Porto d'armi,1981,SI,5,VOTI_OTTENUTI,4423426.0,Voti ottenuti,0
+REFERENDUM,3. Porto d'armi,1981,SI,5,PERC_ASS,10.25,Percentuale (su aventi diritto),0
+REFERENDUM,3. Porto d'armi,1981,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Porto d'armi,1981,BIANCHE,6,VOTI_OTTENUTI,2014303.0,Voti ottenuti,1
+REFERENDUM,3. Porto d'armi,1981,BIANCHE,6,PERC_ASS,4.67,Percentuale (su aventi diritto),1
+REFERENDUM,3. Porto d'armi,1981,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Porto d'armi,1981,NULLE,7,VOTI_OTTENUTI,842474.0,Voti ottenuti,1
+REFERENDUM,3. Porto d'armi,1981,NULLE,7,PERC_ASS,1.95,Percentuale (su aventi diritto),1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,ELETTORI,1,VOTI_OTTENUTI,43154682.0,Voti ottenuti,1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,VOTANTI,2,VOTI_OTTENUTI,34277119.0,Voti ottenuti,1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,VOTANTI,2,PERC_ASS,79.43,Percentuale (su aventi diritto),1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,NO,3,VOTI_OTTENUTI,21505323.0,Voti ottenuti,0
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,NO,3,PERC_ASS,49.83,Percentuale (su aventi diritto),0
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,NO,3,PERC_VAL,68.0,Percentuale (su voti validi),0
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,SI,4,PERC_ASS,23.45,Percentuale (su aventi diritto),0
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,SI,4,PERC_VAL,32.0,Percentuale (su voti validi),0
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,SI,4,VOTI_OTTENUTI,10119797.0,Voti ottenuti,0
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,ASTENUTI,5,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,ASTENUTI,5,VOTI_OTTENUTI,8877563.0,Voti ottenuti,1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,ASTENUTI,5,PERC_ASS,20.57,Percentuale (su aventi diritto),1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,BIANCHE,6,VOTI_OTTENUTI,1733769.0,Voti ottenuti,1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,BIANCHE,6,PERC_ASS,4.02,Percentuale (su aventi diritto),1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,NULLE,7,VOTI_OTTENUTI,918230.0,Voti ottenuti,1
+REFERENDUM,5. Interruzione gravidanza (Proposta Movimento per la vita),1981,NULLE,7,PERC_ASS,2.13,Percentuale (su aventi diritto),1
+REFERENDUM,1. Indennita' di contingenza,1985,ELETTORI,1,VOTI_OTTENUTI,44904290.0,Voti ottenuti,1
+REFERENDUM,1. Indennita' di contingenza,1985,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,1. Indennita' di contingenza,1985,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Indennita' di contingenza,1985,VOTANTI,2,VOTI_OTTENUTI,34959404.0,Voti ottenuti,1
+REFERENDUM,1. Indennita' di contingenza,1985,VOTANTI,2,PERC_ASS,77.85,Percentuale (su aventi diritto),1
+REFERENDUM,1. Indennita' di contingenza,1985,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Indennita' di contingenza,1985,NO,3,VOTI_OTTENUTI,18384788.0,Voti ottenuti,0
+REFERENDUM,1. Indennita' di contingenza,1985,NO,3,PERC_ASS,40.94,Percentuale (su aventi diritto),0
+REFERENDUM,1. Indennita' di contingenza,1985,NO,3,PERC_VAL,54.32,Percentuale (su voti validi),0
+REFERENDUM,1. Indennita' di contingenza,1985,SI,4,PERC_ASS,34.43,Percentuale (su aventi diritto),0
+REFERENDUM,1. Indennita' di contingenza,1985,SI,4,PERC_VAL,45.68,Percentuale (su voti validi),0
+REFERENDUM,1. Indennita' di contingenza,1985,SI,4,VOTI_OTTENUTI,15460855.0,Voti ottenuti,0
+REFERENDUM,1. Indennita' di contingenza,1985,ASTENUTI,5,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Indennita' di contingenza,1985,ASTENUTI,5,VOTI_OTTENUTI,9944886.0,Voti ottenuti,1
+REFERENDUM,1. Indennita' di contingenza,1985,ASTENUTI,5,PERC_ASS,22.15,Percentuale (su aventi diritto),1
+REFERENDUM,1. Indennita' di contingenza,1985,NULLE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Indennita' di contingenza,1985,NULLE,6,VOTI_OTTENUTI,636932.0,Voti ottenuti,1
+REFERENDUM,1. Indennita' di contingenza,1985,NULLE,6,PERC_ASS,1.42,Percentuale (su aventi diritto),1
+REFERENDUM,1. Indennita' di contingenza,1985,BIANCHE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Indennita' di contingenza,1985,BIANCHE,7,VOTI_OTTENUTI,476829.0,Voti ottenuti,1
+REFERENDUM,1. Indennita' di contingenza,1985,BIANCHE,7,PERC_ASS,1.06,Percentuale (su aventi diritto),1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,ELETTORI,1,VOTI_OTTENUTI,46974782.0,Voti ottenuti,1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,ASTENUTI,2,VOTI_OTTENUTI,35593854.0,Voti ottenuti,1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,ASTENUTI,2,PERC_ASS,75.77,Percentuale (su aventi diritto),1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,ASTENUTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,VOTANTI,3,VOTI_OTTENUTI,11380928.0,Voti ottenuti,1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,VOTANTI,3,PERC_ASS,24.23,Percentuale (su aventi diritto),1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,VOTANTI,3,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,SI,4,PERC_ASS,19.35,Percentuale (su aventi diritto),0
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,SI,4,PERC_VAL,87.85,Percentuale (su voti validi),0
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,SI,4,VOTI_OTTENUTI,9089908.0,Voti ottenuti,0
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,NO,5,PERC_VAL,12.15,Percentuale (su voti validi),0
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,NO,5,VOTI_OTTENUTI,1257352.0,Voti ottenuti,0
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,NO,5,PERC_ASS,2.68,Percentuale (su aventi diritto),0
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,BIANCHE,6,VOTI_OTTENUTI,722094.0,Voti ottenuti,1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,BIANCHE,6,PERC_ASS,1.54,Percentuale (su aventi diritto),1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,NULLE,7,VOTI_OTTENUTI,311574.0,Voti ottenuti,1
+REFERENDUM,3. Elezione della Camera dei Deputati. Abrogazione della possibilita' per uno stesso candidato di presentare la propria candidatura in piu' di una circoscrizione,2009,NULLE,7,PERC_ASS,0.66,Percentuale (su aventi diritto),1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,ELETTORI,1,VOTI_OTTENUTI,47117456.0,Voti ottenuti,1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,VOTANTI,2,VOTI_OTTENUTI,26876191.0,Voti ottenuti,1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,VOTANTI,2,PERC_ASS,57.04,Percentuale (su aventi diritto),1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,SI,3,VOTI_OTTENUTI,25411092.0,Voti ottenuti,0
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,SI,3,PERC_ASS,53.93,Percentuale (su aventi diritto),0
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,SI,3,PERC_VAL,95.84,Percentuale (su voti validi),0
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,ASTENUTI,4,PERC_ASS,42.96,Percentuale (su aventi diritto),1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,ASTENUTI,4,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,ASTENUTI,4,VOTI_OTTENUTI,20241265.0,Voti ottenuti,1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,NO,5,PERC_VAL,4.16,Percentuale (su voti validi),0
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,NO,5,VOTI_OTTENUTI,1102871.0,Voti ottenuti,0
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,NO,5,PERC_ASS,2.34,Percentuale (su aventi diritto),0
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,BIANCHE,6,VOTI_OTTENUTI,261702.0,Voti ottenuti,1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,BIANCHE,6,PERC_ASS,0.56,Percentuale (su aventi diritto),1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,NULLE,7,VOTI_OTTENUTI,100526.0,Voti ottenuti,1
+REFERENDUM,1. Modalita' di affidamento e gestione dei servizi pubblici locali di rilevanza economica - Abrogazione,2011,NULLE,7,PERC_ASS,0.21,Percentuale (su aventi diritto),1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,ELETTORI,1,VOTI_OTTENUTI,47117456.0,Voti ottenuti,1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,VOTANTI,2,VOTI_OTTENUTI,26862995.0,Voti ottenuti,1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,VOTANTI,2,PERC_ASS,57.01,Percentuale (su aventi diritto),1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,SI,3,VOTI_OTTENUTI,25180245.0,Voti ottenuti,0
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,SI,3,PERC_ASS,53.44,Percentuale (su aventi diritto),0
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,SI,3,PERC_VAL,94.75,Percentuale (su voti validi),0
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,ASTENUTI,4,PERC_ASS,42.99,Percentuale (su aventi diritto),1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,ASTENUTI,4,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,ASTENUTI,4,VOTI_OTTENUTI,20254461.0,Voti ottenuti,1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,NO,5,PERC_VAL,5.25,Percentuale (su voti validi),0
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,NO,5,VOTI_OTTENUTI,1394568.0,Voti ottenuti,0
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,NO,5,PERC_ASS,2.96,Percentuale (su aventi diritto),0
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,BIANCHE,6,VOTI_OTTENUTI,196037.0,Voti ottenuti,1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,BIANCHE,6,PERC_ASS,0.42,Percentuale (su aventi diritto),1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,NULLE,7,VOTI_OTTENUTI,92145.0,Voti ottenuti,1
+REFERENDUM,3. Abrogazione delle nuove norme che consentono la produzione nel territorio di energia elettrica nucleare,2011,NULLE,7,PERC_ASS,0.2,Percentuale (su aventi diritto),1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,ELETTORI,1,VOTI_OTTENUTI,47117456.0,Voti ottenuti,1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,VOTANTI,2,VOTI_OTTENUTI,26856924.0,Voti ottenuti,1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,VOTANTI,2,PERC_ASS,57.0,Percentuale (su aventi diritto),1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,SI,3,VOTI_OTTENUTI,25218424.0,Voti ottenuti,0
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,SI,3,PERC_ASS,53.52,Percentuale (su aventi diritto),0
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,SI,3,PERC_VAL,95.15,Percentuale (su voti validi),0
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,ASTENUTI,4,PERC_ASS,43.0,Percentuale (su aventi diritto),1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,ASTENUTI,4,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,ASTENUTI,4,VOTI_OTTENUTI,20260532.0,Voti ottenuti,1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,NO,5,PERC_VAL,4.85,Percentuale (su voti validi),0
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,NO,5,VOTI_OTTENUTI,1285830.0,Voti ottenuti,0
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,NO,5,PERC_ASS,2.73,Percentuale (su aventi diritto),0
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,BIANCHE,6,VOTI_OTTENUTI,249675.0,Voti ottenuti,1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,BIANCHE,6,PERC_ASS,0.53,Percentuale (su aventi diritto),1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,NULLE,7,VOTI_OTTENUTI,102995.0,Voti ottenuti,1
+REFERENDUM,"4. Abrogazione di norme della legge 7 aprile 2010, n.51, in materia di legittimo impedimento del Presidente del Consiglio dei Ministri e dei Ministri a comparire in udienza penale, quale risultante a seguito della sentenza n.23 del 2011 della Corte Costituzionale ",2011,NULLE,7,PERC_ASS,0.22,Percentuale (su aventi diritto),1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,ELETTORI,1,VOTI_OTTENUTI,46720943.0,Voti ottenuti,1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,VOTANTI,2,VOTI_OTTENUTI,31997916.0,Voti ottenuti,1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,VOTANTI,2,PERC_ASS,68.49,Percentuale (su aventi diritto),1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,NO,3,VOTI_OTTENUTI,19026617.0,Voti ottenuti,0
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,NO,3,PERC_ASS,40.72,Percentuale (su aventi diritto),0
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,NO,3,PERC_VAL,59.96,Percentuale (su voti validi),0
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,ASTENUTI,4,PERC_ASS,31.51,Percentuale (su aventi diritto),1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,ASTENUTI,4,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,ASTENUTI,4,VOTI_OTTENUTI,14723027.0,Voti ottenuti,1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,SI,5,PERC_VAL,40.04,Percentuale (su voti validi),0
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,SI,5,VOTI_OTTENUTI,12708172.0,Voti ottenuti,0
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,SI,5,PERC_ASS,27.2,Percentuale (su aventi diritto),0
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,NULLE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,NULLE,6,VOTI_OTTENUTI,189007.0,Voti ottenuti,1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,NULLE,6,PERC_ASS,0.4,Percentuale (su aventi diritto),1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,BIANCHE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,BIANCHE,7,VOTI_OTTENUTI,74120.0,Voti ottenuti,1
+REFERENDUM,1. PER L'APPROVAZIONE DELLA LEGGE DI RIFORMA COSTITUZIONALE,2016,BIANCHE,7,PERC_ASS,0.16,Percentuale (su aventi diritto),1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,ELETTORI,1,VOTI_OTTENUTI,46418677.0,Voti ottenuti,1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,ELETTORI,1,PERC_ASS,100.0,Percentuale (su aventi diritto),1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,ELETTORI,1,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,VOTANTI,2,VOTI_OTTENUTI,24993015.0,Voti ottenuti,1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,VOTANTI,2,PERC_ASS,53.84,Percentuale (su aventi diritto),1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,VOTANTI,2,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,ASTENUTI,3,VOTI_OTTENUTI,21425662.0,Voti ottenuti,1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,ASTENUTI,3,PERC_ASS,46.16,Percentuale (su aventi diritto),1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,ASTENUTI,3,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,SI,4,PERC_ASS,36.99,Percentuale (su aventi diritto),0
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,SI,4,PERC_VAL,69.64,Percentuale (su voti validi),0
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,SI,4,VOTI_OTTENUTI,17168702.0,Voti ottenuti,0
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,NO,5,PERC_VAL,30.36,Percentuale (su voti validi),0
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,NO,5,VOTI_OTTENUTI,7484748.0,Voti ottenuti,0
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,NO,5,PERC_ASS,16.12,Percentuale (su aventi diritto),0
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,BIANCHE,6,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,BIANCHE,6,VOTI_OTTENUTI,210848.0,Voti ottenuti,1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,BIANCHE,6,PERC_ASS,0.45,Percentuale (su aventi diritto),1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,NULLE,7,PERC_VAL,,Percentuale (su voti validi),1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,NULLE,7,VOTI_OTTENUTI,128717.0,Voti ottenuti,1
+REFERENDUM,1. REFERENDUM COSTITUZIONALE - RIDUZIONE DEL NUMERO DEI PARLAMENTARI,2020,NULLE,7,PERC_ASS,0.28,Percentuale (su aventi diritto),1
