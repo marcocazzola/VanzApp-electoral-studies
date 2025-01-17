@@ -5,6 +5,10 @@ import pandas as pd
 df_reg = pd.read_csv("ScrapingScripts/RawOutput/RisultatiNazionali/REGIONALI.csv")
 df_com = pd.read_csv("ScrapingScripts/RawOutput/RisultatiComunali/REGIONALI.csv")
 
+# Eliminazione righe non valide
+df_reg = df_reg[(df_reg.LISTA != 0) & (df_reg.VOTI != 0)]
+df_com = df_com[(df_com.LISTA != 0) & (df_com.VOTI != 0)]
+
 # Per identificare righe da eliminare (relative a candidato e non a liste)
 candidate_names = [
     "FONTANA ATTILIO", 
@@ -29,6 +33,9 @@ results = df_com[(df_com.FLG_NOT_VALID == 0) & (~(df_com.LISTA.isin(candidate_na
 
 # Concateno valid e non valid
 stg_df = pd.concat([results, not_valid], ignore_index=True)
+
+# Prima della join correggo inconsistenza tra dataset regionale e comunale
+df_reg.loc[df_reg.LISTA == 'DEM.PROLETARIA', 'LISTA'] = "DEM.PROL"
 
 # Join con risultati regionali
 final = stg_df.merge(
