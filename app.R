@@ -1,11 +1,6 @@
-# Libraries----
-library(shiny)
-library(shinydashboard)
-library(shinyjs)
-library(tidyverse)
-library(scales)
-library(ggtext)
-library(plotly)
+# Load the dependencies----
+source("dependencies.R")
+load.packages(pkg.lst)
 
 # UDF ----
 source("function_utils.R")
